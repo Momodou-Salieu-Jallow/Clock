@@ -1,2 +1,2 @@
-pure javascript, hmtl and css 
+pure javascript, html and css 
 build by M S Jallow
